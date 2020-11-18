@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2012\Projects\University_Management_System\University_Management_System\bin\Debug\University_Management_System.exe.config
+c:\users\user\documents\visual studio 2012\Projects\University_Management_System\University_Management_System\obj\Debug\University_Management_System.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\University_Management_System\University_Management_System\bin\Debug\University_Management_System.exe
+c:\users\user\documents\visual studio 2012\Projects\University_Management_System\University_Management_System\bin\Debug\University_Management_System.pdb
+c:\users\user\documents\visual studio 2012\Projects\University_Management_System\University_Management_System\obj\Debug\University_Management_System.exe
+c:\users\user\documents\visual studio 2012\Projects\University_Management_System\University_Management_System\obj\Debug\University_Management_System.pdb
